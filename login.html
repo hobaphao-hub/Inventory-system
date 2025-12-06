@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>Đăng nhập</title>
+
+    <style>
+        body {
+            margin: 0;
+            font-family: "Segoe UI", sans-serif;
+            background: white;
+        }
+
+        .container {
+            display: flex;
+            height: 100vh;
+        }
+
+        /* ----- BÊN TRÁI: ẢNH ----- */
+        .left {
+            width: 50%;
+            background-image: url("https://i.imgur.com/K1tvCbq.png");
+            background-repeat: no-repeat;
+            background-size: 80% auto;
+            background-position: center 18%;
+        }
+
+        /* ----- BÊN PHẢI: FORM ----- */
+        .right {
+            width: 50%;
+            display: flex;                 /* ✅ để căn giữa */
+            align-items: center;           /* căn giữa theo chiều dọc */
+            justify-content: center;       /* căn giữa ngang */
+            padding: 0 80px;               /* chỉ padding ngang */
+            box-sizing: border-box;
+        }
+
+        .form-box{
+            width: 100%;
+            max-width: 720px;             /* ✅ tránh bị quá sát lề */
+            transform: translateY(-120px);  /* ✅ hạ nhẹ xuống 1 chút (không quá thấp) */
+        }
+
+        /* hàng tiêu đề có logo */
+        .title-row{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 12px;
+            margin-bottom: 40px;
+        }
+
+        .title-row img{
+            height: 38px;
+            width: auto;
+            object-fit: contain;
+        }
+
+        .title-row h1{
+            margin: 0;
+            font-size: 28px;
+            font-weight: 700;
+            text-align: center;
+            white-space: nowrap;
+        }
+
+        label {
+            font-size: 16px;
+            font-weight: 500;
+        }
+
+        input {
+            width: 100%;
+            padding: 14px;
+            font-size: 16px;
+            border: 1px solid #ccc;
+            border-radius: 6px;
+            margin-top: 6px;
+            margin-bottom: 22px;
+            box-sizing: border-box;
+        }
+
+        .forgot {
+            text-align: right;
+            font-size: 16px;
+            font-style: italic;
+            margin-bottom: 25px;
+        }
+
+         .btn {
+        width: 100%;
+        padding: 18px;
+        background: #1e88e5;      /* ✅ màu xanh chủ đạo */
+        color: white;
+        border: none;
+        border-radius: 40px;
+        font-size: 18px;
+        font-weight: 700;
+        cursor: pointer;
+        box-shadow: 0 6px 16px rgba(30,136,229,0.35); /* đẹp hơn chút */
+        transition: all 0.2s ease;
+    }
+
+    .btn:hover {
+        background: #1565c0;      /* ✅ xanh đậm khi hover */
+        transform: translateY(-1px);
+        box-shadow: 0 8px 18px rgba(21,101,192,0.45);
+        opacity: 1;              /* bỏ opacity cũ để không bị nhạt */
+    }
+    </style>
+</head>
+
+<body>
+<div class="container">
+
+    <!-- ẢNH BÊN TRÁI -->
+    <div class="left"></div>
+
+    <!-- FORM ĐĂNG NHẬP -->
+    <div class="right">
+        <div class="form-box">
+
+            <div class="title-row">
+                <img src="https://i.imgur.com/N1WZjQG.jpeg" alt="Logo Sao Việt">
+                <h1>ĐĂNG NHẬP VÀO HỆ THỐNG</h1>
+            </div>
+
+            <label>Tên đăng nhập</label>
+            <input type="text" placeholder="Nhập tên đăng nhập">
+
+            <label>Mật khẩu</label>
+            <input type="password" placeholder="Nhập mật khẩu">
+
+            <div class="forgot">Quên mật khẩu</div>
+
+            <button class="btn" onclick="login()">ĐĂNG NHẬP</button>
+
+            <script>
+                function login() {
+                    let user = document.querySelectorAll("input")[0].value;
+                    let pass = document.querySelectorAll("input")[1].value;
+
+                    window.location.href = "?email="
+                        + encodeURIComponent(user)
+                        + "&password="
+                        + encodeURIComponent(pass);
+                }
+            </script>
+        </div>
+    </div>
+</div>
+</body>
+</html>

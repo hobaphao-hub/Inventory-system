@@ -1,0 +1,8 @@
+[theme]
+primaryColor = "#4CAF50"               # Màu chính (ví dụ xanh lá)
+backgroundColor = "#F0F2F6"            # Màu nền chính của app
+secondaryBackgroundColor = "#E0E0E0"   # Màu nền sidebar và vùng phụ
+textColor = "#262730"                  # Màu chữ chính
+font = "sans serif"                    # Kiểu font chữ ("sans serif", "serif", hoặc "monospace")
+[server]
+port = 8505

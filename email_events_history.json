@@ -1,0 +1,671 @@
+[
+  {
+    "timestamp": "2025-11-26 12:27:20",
+    "count": 4,
+    "products": [
+      {
+        "ma_sp": "SP001",
+        "ten_sp": "Bánh quy bơ",
+        "ton_kho": 81,
+        "rop": 175
+      },
+      {
+        "ma_sp": "SP002",
+        "ten_sp": "Bánh quy socola",
+        "ton_kho": 94,
+        "rop": 114
+      },
+      {
+        "ma_sp": "SP003",
+        "ten_sp": "Bánh kem xốp",
+        "ton_kho": 71,
+        "rop": 101
+      },
+      {
+        "ma_sp": "SP004",
+        "ten_sp": "Kẹo cứng hương cam",
+        "ton_kho": 72,
+        "rop": 86
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-11-26 12:31:11",
+    "count": 1,
+    "products": [
+      {
+        "ma_sp": "SP004",
+        "ten_sp": "Kẹo cứng hương cam",
+        "ton_kho": 72,
+        "rop": 86
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-03 11:35:44",
+    "count": 4,
+    "products": [
+      {
+        "ma_sp": "SP012",
+        "ten_sp": "Thanh ngũ cốc dinh dưỡng",
+        "ton_kho": 1,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP013",
+        "ten_sp": "Bánh mì mini",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP014",
+        "ten_sp": "Kẹo bạc hà",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP015",
+        "ten_sp": "Kẹo me chua cay",
+        "ton_kho": 0,
+        "rop": 105
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-04 12:09:13",
+    "count": 10,
+    "products": [
+      {
+        "ma_sp": "SP006",
+        "ten_sp": "Kẹo dẻo trái cây",
+        "ton_kho": 100,
+        "rop": 143
+      },
+      {
+        "ma_sp": "SP007",
+        "ten_sp": "Socola nhân hạnh nhân",
+        "ton_kho": 100,
+        "rop": 143
+      },
+      {
+        "ma_sp": "SP008",
+        "ten_sp": "Snack khoai tây",
+        "ton_kho": 100,
+        "rop": 158
+      },
+      {
+        "ma_sp": "SP009",
+        "ten_sp": "Snack rong biển",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP010",
+        "ten_sp": "Bánh trung thu truyền thống",
+        "ton_kho": 0,
+        "rop": 3
+      },
+      {
+        "ma_sp": "SP011",
+        "ten_sp": "Bánh trung thu nhân đậu xanh",
+        "ton_kho": 0,
+        "rop": 15
+      },
+      {
+        "ma_sp": "SP012",
+        "ten_sp": "Thanh ngũ cốc dinh dưỡng",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP013",
+        "ten_sp": "Bánh mì mini",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP014",
+        "ten_sp": "Kẹo bạc hà",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP015",
+        "ten_sp": "Kẹo me chua cay",
+        "ton_kho": 0,
+        "rop": 105
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-04 13:43:07",
+    "count": 15,
+    "products": [
+      {
+        "ma_sp": "SP001",
+        "ten_sp": "Bánh quy bơ",
+        "ton_kho": 0,
+        "rop": 175
+      },
+      {
+        "ma_sp": "SP002",
+        "ten_sp": "Bánh quy socola",
+        "ton_kho": 0,
+        "rop": 114
+      },
+      {
+        "ma_sp": "SP003",
+        "ten_sp": "Bánh kem xốp",
+        "ton_kho": 0,
+        "rop": 101
+      },
+      {
+        "ma_sp": "SP004",
+        "ten_sp": "Kẹo cứng hương cam",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP005",
+        "ten_sp": "Kẹo mềm sữa",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP006",
+        "ten_sp": "Kẹo dẻo trái cây",
+        "ton_kho": 0,
+        "rop": 143
+      },
+      {
+        "ma_sp": "SP007",
+        "ten_sp": "Socola nhân hạnh nhân",
+        "ton_kho": 0,
+        "rop": 143
+      },
+      {
+        "ma_sp": "SP008",
+        "ten_sp": "Snack khoai tây",
+        "ton_kho": 0,
+        "rop": 158
+      },
+      {
+        "ma_sp": "SP009",
+        "ten_sp": "Snack rong biển",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP010",
+        "ten_sp": "Bánh trung thu truyền thống",
+        "ton_kho": 0,
+        "rop": 3
+      },
+      {
+        "ma_sp": "SP011",
+        "ten_sp": "Bánh trung thu nhân đậu xanh",
+        "ton_kho": 0,
+        "rop": 15
+      },
+      {
+        "ma_sp": "SP012",
+        "ten_sp": "Thanh ngũ cốc dinh dưỡng",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP013",
+        "ten_sp": "Bánh mì mini",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP014",
+        "ten_sp": "Kẹo bạc hà",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP015",
+        "ten_sp": "Kẹo me chua cay",
+        "ton_kho": 0,
+        "rop": 105
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 00:54:09",
+    "count": 15,
+    "products": [
+      {
+        "ma_sp": "SP001",
+        "ten_sp": "Bánh quy bơ",
+        "ton_kho": 0,
+        "rop": 175
+      },
+      {
+        "ma_sp": "SP002",
+        "ten_sp": "Bánh quy socola",
+        "ton_kho": 0,
+        "rop": 114
+      },
+      {
+        "ma_sp": "SP003",
+        "ten_sp": "Bánh kem xốp",
+        "ton_kho": 0,
+        "rop": 101
+      },
+      {
+        "ma_sp": "SP004",
+        "ten_sp": "Kẹo cứng hương cam",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP005",
+        "ten_sp": "Kẹo mềm sữa",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP006",
+        "ten_sp": "Kẹo dẻo trái cây",
+        "ton_kho": 0,
+        "rop": 143
+      },
+      {
+        "ma_sp": "SP007",
+        "ten_sp": "Socola nhân hạnh nhân",
+        "ton_kho": 0,
+        "rop": 143
+      },
+      {
+        "ma_sp": "SP008",
+        "ten_sp": "Snack khoai tây",
+        "ton_kho": 0,
+        "rop": 158
+      },
+      {
+        "ma_sp": "SP009",
+        "ten_sp": "Snack rong biển",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP010",
+        "ten_sp": "Bánh trung thu truyền thống",
+        "ton_kho": 0,
+        "rop": 3
+      },
+      {
+        "ma_sp": "SP011",
+        "ten_sp": "Bánh trung thu nhân đậu xanh",
+        "ton_kho": 0,
+        "rop": 15
+      },
+      {
+        "ma_sp": "SP012",
+        "ten_sp": "Thanh ngũ cốc dinh dưỡng",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP013",
+        "ten_sp": "Bánh mì mini",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP014",
+        "ten_sp": "Kẹo bạc hà",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP015",
+        "ten_sp": "Kẹo me chua cay",
+        "ton_kho": 0,
+        "rop": 105
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 01:22:40",
+    "count": 14,
+    "products": [
+      {
+        "ma_sp": "SP002",
+        "ten_sp": "Bánh quy socola",
+        "ton_kho": 0,
+        "rop": 114
+      },
+      {
+        "ma_sp": "SP003",
+        "ten_sp": "Bánh kem xốp",
+        "ton_kho": 0,
+        "rop": 101
+      },
+      {
+        "ma_sp": "SP004",
+        "ten_sp": "Kẹo cứng hương cam",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP005",
+        "ten_sp": "Kẹo mềm sữa",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP006",
+        "ten_sp": "Kẹo dẻo trái cây",
+        "ton_kho": 0,
+        "rop": 143
+      },
+      {
+        "ma_sp": "SP007",
+        "ten_sp": "Socola nhân hạnh nhân",
+        "ton_kho": 0,
+        "rop": 143
+      },
+      {
+        "ma_sp": "SP008",
+        "ten_sp": "Snack khoai tây",
+        "ton_kho": 0,
+        "rop": 158
+      },
+      {
+        "ma_sp": "SP009",
+        "ten_sp": "Snack rong biển",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP010",
+        "ten_sp": "Bánh trung thu truyền thống",
+        "ton_kho": 0,
+        "rop": 3
+      },
+      {
+        "ma_sp": "SP011",
+        "ten_sp": "Bánh trung thu nhân đậu xanh",
+        "ton_kho": 0,
+        "rop": 15
+      },
+      {
+        "ma_sp": "SP012",
+        "ten_sp": "Thanh ngũ cốc dinh dưỡng",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP013",
+        "ten_sp": "Bánh mì mini",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP014",
+        "ten_sp": "Kẹo bạc hà",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP015",
+        "ten_sp": "Kẹo me chua cay",
+        "ton_kho": 0,
+        "rop": 105
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 01:32:41",
+    "count": 11,
+    "products": [
+      {
+        "ma_sp": "SP005",
+        "ten_sp": "Kẹo mềm sữa",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP006",
+        "ten_sp": "Kẹo dẻo trái cây",
+        "ton_kho": 0,
+        "rop": 143
+      },
+      {
+        "ma_sp": "SP007",
+        "ten_sp": "Socola nhân hạnh nhân",
+        "ton_kho": 0,
+        "rop": 143
+      },
+      {
+        "ma_sp": "SP008",
+        "ten_sp": "Snack khoai tây",
+        "ton_kho": 0,
+        "rop": 158
+      },
+      {
+        "ma_sp": "SP009",
+        "ten_sp": "Snack rong biển",
+        "ton_kho": 0,
+        "rop": 86
+      },
+      {
+        "ma_sp": "SP010",
+        "ten_sp": "Bánh trung thu truyền thống",
+        "ton_kho": 0,
+        "rop": 3
+      },
+      {
+        "ma_sp": "SP011",
+        "ten_sp": "Bánh trung thu nhân đậu xanh",
+        "ton_kho": 0,
+        "rop": 15
+      },
+      {
+        "ma_sp": "SP012",
+        "ten_sp": "Thanh ngũ cốc dinh dưỡng",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP013",
+        "ten_sp": "Bánh mì mini",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP014",
+        "ten_sp": "Kẹo bạc hà",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP015",
+        "ten_sp": "Kẹo me chua cay",
+        "ton_kho": 0,
+        "rop": 105
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 17:24:58",
+    "count": 3,
+    "products": [
+      {
+        "ma_sp": "SP001",
+        "ten_sp": "Bánh quy bơ",
+        "ton_kho": 0,
+        "rop": 175
+      },
+      {
+        "ma_sp": "SP002",
+        "ten_sp": "Bánh quy socola",
+        "ton_kho": 0,
+        "rop": 114
+      },
+      {
+        "ma_sp": "SP003",
+        "ten_sp": "Bánh kem xốp",
+        "ton_kho": 0,
+        "rop": 101
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 18:09:45",
+    "count": 3,
+    "products": [
+      {
+        "ma_sp": "SP001",
+        "ten_sp": "Bánh quy bơ",
+        "ton_kho": 0,
+        "rop": 175
+      },
+      {
+        "ma_sp": "SP012",
+        "ten_sp": "Thanh ngũ cốc dinh dưỡng",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP013",
+        "ten_sp": "Bánh mì mini",
+        "ton_kho": 0,
+        "rop": 72
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 18:19:07",
+    "count": 2,
+    "products": [
+      {
+        "ma_sp": "SP012",
+        "ten_sp": "Thanh ngũ cốc dinh dưỡng",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP013",
+        "ten_sp": "Bánh mì mini",
+        "ton_kho": 0,
+        "rop": 72
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 21:36:10",
+    "type": "EXPIRY",
+    "count": 2,
+    "lots": [
+      {
+        "Lô": 6,
+        "Mã sản phẩm": "SP010",
+        "Tên sản phẩm": "Bánh trung thu truyền thống",
+        "Số lượng tồn kho": 30,
+        "Ngày nhập": "05/12/2025 21:36",
+        "Hạn sử dụng": "20/01/2026",
+        "Tình trạng": "còn dư 30",
+        "Cảnh báo": "Còn 46 ngày",
+        "Trạng thái": "Chưa xử lí",
+        "_is_in_khu_e": false,
+        "::auto_unique_id::": "0"
+      },
+      {
+        "Lô": 7,
+        "Mã sản phẩm": "SP011",
+        "Tên sản phẩm": "Bánh trung thu nhân đậu xanh",
+        "Số lượng tồn kho": 30,
+        "Ngày nhập": "05/12/2025 21:36",
+        "Hạn sử dụng": "20/01/2026",
+        "Tình trạng": "còn dư 30",
+        "Cảnh báo": "Còn 46 ngày",
+        "Trạng thái": "Chưa xử lí",
+        "_is_in_khu_e": false,
+        "::auto_unique_id::": "1"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 22:04:20",
+    "type": "EXPIRY",
+    "count": 1,
+    "lots": [
+      {
+        "Lô": 6,
+        "Mã sản phẩm": "SP010",
+        "Tên sản phẩm": "Bánh trung thu truyền thống",
+        "Số lượng tồn kho": 30,
+        "Ngày nhập": "05/12/2025 21:36",
+        "Hạn sử dụng": "20/01/2026",
+        "Tình trạng": "còn dư 30",
+        "Cảnh báo": "Còn 46 ngày",
+        "Trạng thái": "Đã chuyển sang Khu E",
+        "_is_in_khu_e": true,
+        "::auto_unique_id::": "0"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-05 22:05:49",
+    "type": "EXPIRY",
+    "count": 2,
+    "lots": [
+      {
+        "Lô": 6,
+        "Mã sản phẩm": "SP010",
+        "Tên sản phẩm": "Bánh trung thu truyền thống",
+        "Số lượng tồn kho": 30,
+        "Ngày nhập": "05/12/2025 21:36",
+        "Hạn sử dụng": "20/01/2026",
+        "Tình trạng": "còn dư 30",
+        "Cảnh báo": "Còn 46 ngày",
+        "Trạng thái": "Đã chuyển sang Khu E",
+        "_is_in_khu_e": true,
+        "::auto_unique_id::": "0"
+      },
+      {
+        "Lô": 8,
+        "Mã sản phẩm": "SP011",
+        "Tên sản phẩm": "Bánh trung thu nhân đậu xanh",
+        "Số lượng tồn kho": 30,
+        "Ngày nhập": "05/12/2025 22:05",
+        "Hạn sử dụng": "17/12/2025",
+        "Tình trạng": "còn dư 30",
+        "Cảnh báo": "Còn 12 ngày",
+        "Trạng thái": "Chưa xử lí",
+        "_is_in_khu_e": false,
+        "::auto_unique_id::": "1"
+      }
+    ]
+  },
+  {
+    "timestamp": "2025-12-06 00:19:07",
+    "type": "ROP",
+    "count": 3,
+    "products": [
+      {
+        "ma_sp": "SP013",
+        "ten_sp": "Bánh mì mini",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP014",
+        "ten_sp": "Kẹo bạc hà",
+        "ton_kho": 0,
+        "rop": 72
+      },
+      {
+        "ma_sp": "SP015",
+        "ten_sp": "Kẹo me chua cay",
+        "ton_kho": 0,
+        "rop": 105
+      }
+    ]
+  }
+]
